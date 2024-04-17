@@ -1,0 +1,30 @@
+
+
+.container{
+   float: left;
+}
+
+.roseanne{
+    float: left;
+    margin-right: 30px;
+    border-radius: 50%;
+    width: 200px;
+}
+
+.card{
+    width: 45%;
+}
+
+.cont{
+    float: right;
+}
+
+.principal{
+    margin-top: 300px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 105px;
+}
+
+
